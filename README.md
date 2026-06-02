@@ -6,7 +6,7 @@ An end-to-end data analytics project analysing 119,390 real hotel bookings using
 
 ## Dashboard Overview
 
-![Executive Summary](images/page1_executive_summary.png)
+<img width="1412" height="777" alt="image" src="https://github.com/user-attachments/assets/0f6a3bf2-9a04-4c01-b2d2-81ce4173cb8f" />
 
 ---
 
@@ -54,23 +54,13 @@ Originally published in the research paper:
 ```
 hotel-booking-analysis/
 │
-├── data/
-│   └── hotel_bookings.csv
+└── hotel_bookings.csv
 │
-├── sql/
-│   ├── 01_table_setup.sql
-│   ├── 02_business_queries.sql
-│   └── 03_views.sql
+├── 01_table_setup.sql
+├── 02_business_queries.sql
+└── 03_views.sql
 │
-├── powerbi/
-│   └── hotel_booking_analysis.pbix
-│
-├── images/
-│   ├── page1_executive_summary.png
-│   ├── page2_cancellation_deep_dive.png
-│   ├── page3_revenue_analysis.png
-│   ├── page4_guest_behaviour.png
-│   └── page5_risk_dashboard.png
+└── hotel_booking_analysis.pbix
 │
 └── README.md
 ```
@@ -137,37 +127,30 @@ Combined 4 risk factors into a weighted scoring model:
 ## Power BI Dashboard — 5 Pages
 
 ### Page 1 — Executive Summary
-![Executive Summary](images/page1_executive_summary.png)
+
+<img width="1412" height="777" alt="image" src="https://github.com/user-attachments/assets/f01bc453-5335-4d4d-9635-95c46390befa" />
 
 KPI cards, cancellation rate by hotel type, market segment, distribution channel, and monthly booking trend.
 
 ---
 
-### Page 2 — Cancellation Deep Dive
-![Cancellation Deep Dive](images/page2_cancellation_deep_dive.png)
+### Page 2 and Page 3 — Cancellation Deep Dive and Revenue Analysis
 
 Cancellation by deposit type, geographic map by country, lead time distribution.
 
----
-
-### Page 3 — Revenue Analysis
-![Revenue Analysis](images/page3_revenue_analysis.png)
-
 Monthly revenue trend by year, revenue comparison by hotel type.
 
+<img width="1411" height="786" alt="image" src="https://github.com/user-attachments/assets/ed792d4a-58d2-478f-9c52-947b68510de4" />
+
 ---
 
-### Page 4 — Guest Behaviour
+### Page 4 — Guest Behaviour and Risk Dashboard
 ![Guest Behaviour](images/page4_guest_behaviour.png)
 
 Repeat vs new guest cancellation rate, special requests vs cancellation rate.
-
----
-
-### Page 5 — Risk Dashboard
-![Risk Dashboard](images/page5_risk_dashboard.png)
-
 Booking volume by risk category, cancellation rate by risk level, revenue at risk callout.
+
+<img width="1412" height="782" alt="image" src="https://github.com/user-attachments/assets/b2c3bc81-bfe7-42f3-9969-5c1ab51b3f18" />
 
 ---
 
