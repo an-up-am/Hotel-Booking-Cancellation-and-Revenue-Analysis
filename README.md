@@ -191,6 +191,3 @@ Booking volume by risk category, cancellation rate by risk level, revenue at ris
 ## Author
 
 **Anupam Chauhan**
-Data Analyst | IIT Kharagpur M.Tech
-
-[LinkedIn](https://www.linkedin.com/in/anupam-iit-kgp) | [GitHub](https://github.com/an-up-am) | [Portfolio](https://www.datascienceportfol.io/anupamchauhan)
