@@ -145,7 +145,6 @@ Monthly revenue trend by year, revenue comparison by hotel type.
 ---
 
 ### Page 4 — Guest Behaviour and Risk Dashboard
-![Guest Behaviour](images/page4_guest_behaviour.png)
 
 Repeat vs new guest cancellation rate, special requests vs cancellation rate.
 Booking volume by risk category, cancellation rate by risk level, revenue at risk callout.
